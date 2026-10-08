@@ -1,0 +1,11 @@
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+openpyxl
+pandas
+python-dotenv
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+requests
